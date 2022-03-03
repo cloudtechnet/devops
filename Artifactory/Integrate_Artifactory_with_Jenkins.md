@@ -1,8 +1,8 @@
 # Integrate Artifactory with Jenkins
 
 ## pre-requisites
-1. An Artifactory server [Click here to setup](https://youtu.be/eB6CDSR8VCA)
-1. A Jenkins Server [Click here to setup](https://youtu.be/M32O4Yv0ANc)
+1. An Artifactory server 
+1. A Jenkins Server 
 
 ## Integration Steps
 Login to Jenkins to integrate Artifactory with Jenkins  
